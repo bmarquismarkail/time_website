@@ -16,7 +16,16 @@
                 </div>
             <main>
                     <div class="grid_10">
-                        <p>Support Page goes here.</p>
+                        <h2> Show your support by filling out this </h2>
+                        <form action="action_page.php">
+                            <label for="fname">First name:</label><br>
+                            <input type="text" id="fname" name="fname" value="John"><br>
+                            <label for="lname">Last name:</label><br>
+                            <input type="text" id="lname" name="lname" value="Doe"><br>
+                            <label for="comment">Comments? Questions? Hype?</label><br />
+                            <textarea id="comment" name="comment" rows="8" cols="40"></textarea><br />
+                          <input type="submit" value="Submit">
+                        </form> 
                     </div>
                 <footer>
                     <div class="grid_12"><hr/>Copywright 2022: Sage Labs</div>

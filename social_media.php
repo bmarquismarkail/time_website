@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>T.I.M.E.: Support Page</title>
+        <title>T.I.M.E.: Social Media Page</title>
         <link rel="stylesheet" href="css/960_12_col.css" />
         <link rel="stylesheet" href="css/man.css" />
     <!-- php includes-->
